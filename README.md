@@ -13,6 +13,8 @@ This is about "Palghar" district.
 Feel free to use and make changes according to you.
 
 Splash screen of Application:
+![Screenshot_2021-05-20-15-40-34-609_info androidhive crimedetection](https://user-images.githubusercontent.com/83907328/119182402-7bccac00-ba90-11eb-9604-d47cf84ca2c3.jpg)
+
 
 Login page of Application:
 
