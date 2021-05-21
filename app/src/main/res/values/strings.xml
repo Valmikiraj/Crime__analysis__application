@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CrimeAnalysis</string>
+    <string name="open">OPEN</string>
+    <string name="close">CLOSE</string>
+    <string name="abt">
+        App discription:This is simple application for user to use in this application user have to register and than login and there  is a textbox there where user have to enter the pincode of city whose data they want to know after entering pincode it will show the data . In that data there will be crime news of that city, hospitals in that city,and local police station of that city will be shown.User can get  necessary emergency number also by just clicking on amergencynos button.
+        In menu bar user can contact the admin via sending mail ,and user can go to the portal for complaining a crime online , and user can give feedback to admin,and user can  logut also.
+    </string>
+    <string name="abtapp">
+         Application name: CrimeAnalysis
+    </string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "286948269135",
+    "project_id": "crimemonitor-cd9ed",
+    "storage_bucket": "crimemonitor-cd9ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286948269135:android:3393a84a319bfc43a2de3a",
+        "android_client_info": {
+          "package_name": "info.androidhive.crimedetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286948269135-qgugansrdeihpjhjk9c5a8c4fn0rj5bd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvsVTf3kNGqQsgYp8Py0IV2YueV4ss1s4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286948269135-qgugansrdeihpjhjk9c5a8c4fn0rj5bd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
